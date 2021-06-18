@@ -2,7 +2,7 @@
 // Diana Zhang, June 2021
 // Musical arrangement done by me, template credits: Robson Couto at https://github.com/robsoncouto/arduino-songs
  
-// define notes in song with ~ frequency in Hz
+// define notes in song with ~frequency in Hz
 #define NOTE_G3  196
 #define NOTE_GS3 208
 #define NOTE_A3  220
