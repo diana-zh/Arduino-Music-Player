@@ -93,7 +93,7 @@ void setup()
     }
  
     // slight pause added in note duration
-    tone(buzzer, melody[thisNote], noteDuration*0.9);
+    tone(buzzer, melody[thisNote], noteDuration * 0.9);
  
     // delay for previous note's duration before proceeding to next note
     delay(noteDuration);
